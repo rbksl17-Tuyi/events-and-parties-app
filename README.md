@@ -1,0 +1,1 @@
+# events-and-parties-app
